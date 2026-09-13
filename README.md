@@ -64,6 +64,11 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 <br>
 
+**🍽️ [Foodie Dairies](https://github.com/AyeshaRahmanHashmi/foodie-diaries)**
+> Built for ICT course. Simple blog, features menu & gallery browsing. Made to get used to basic html, css syntax
+
+<br>
+
 ### 📈 GitHub Stats
 
 <img src="https://github-stats-extended.vercel.app/api?username=AyeshaRahmanHashmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=86400" width="48%"/> <img src="https://streak-stats.demolab.com?user=AyeshaRahmanHashmi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="48%"/>
