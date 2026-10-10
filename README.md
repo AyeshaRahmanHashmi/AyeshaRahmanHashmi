@@ -17,7 +17,7 @@ role: "BSCS Undergraduate — Semester 5"
 institute: "KICSIT, Institute of Space Technology"
 email: "ayesha.rahman.hashmi@gmail.com"
 cgpa: "3.86"
-currently_learning: "Mobile Development, Web Development"
+currently_learning: "Mobile Development, Web Development, Motion Graphics (Cavalry), Flutter"
 fun_fact: "I debug with print statements and I'm not sorry"
 ```
 <br>
@@ -31,13 +31,26 @@ fun_fact: "I debug with print statements and I'm not sorry"
 **⚙️ Tech Stack**
 
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF9C)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF9C)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF9C)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF9C)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=00FF9C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF9C)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF9C)
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FF9C)
+
+<br>
+
+### 🛠️ Tools I Use
+
+![Dev C++](https://img.shields.io/badge/Dev--C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=00FF9C)
+![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=for-the-badge&logo=anaconda&logoColor=00FF9C)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=00FF9C)
+![Google Colab](https://img.shields.io/badge/Google_Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=00FF9C)
 
 <br>
 
@@ -69,20 +82,17 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 <br>
 
-### 📈 GitHub Stats
-
-<img src="https://github-stats-extended.vercel.app/api?username=AyeshaRahmanHashmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=86400" width="48%"/> <img src="https://streak-stats.demolab.com?user=AyeshaRahmanHashmi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="48%"/>
+**✨ More coming soon...**
 
 <br>
 
-### 💪 Core Strengths
+### 📈 GitHub Stats
 
-| Trait | Rating |
-|---|---|
-| 😎 Confidence | Strong |
-| 🤝 Social Type | Ambivert |
-| 🧩 Problem Solving | Sharp |
-| 🌊 Adaptability | Highly Flexible |
+<img src="https://github-stats-extended.vercel.app/api?username=AyeshaRahmanHashmi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&cache_seconds=86400" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaRahmanHashmi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&langs_count=6&card_width=450" width="48%"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=AyeshaRahmanHashmi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" width="98%"/>
 
 <br>
 
